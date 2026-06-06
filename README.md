@@ -194,4 +194,4 @@ To add more origins, update `allow_origins` in `app/main.py`.
 
 ---
 
-*Algo Architech | Internship Selection Task 2024*
+*Algo Architech | Internship Selection Task 2026*
